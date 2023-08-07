@@ -9,7 +9,7 @@ Use this template if you need a quick developer/data science portfolio! Based on
 <a href = "https://www.hackerrank.com/priyakhandelwal3/"><img src="images/hackerrank_icon.svg"/></a>
 <a href = "https://leetcode.com/priyakhandelwal65/"><img src="images/leetcode_icon.svg"/></a>
 <a href = "https://medium.com/@priyakhandelwal"><img src="images/medium_icon.svg"/></a>
-<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon"/></a>
+<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a>
 
 ### Installation
 
