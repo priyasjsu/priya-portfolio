@@ -5,7 +5,7 @@
 Use this template if you need a quick developer/data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
 <a href = "https://www.linkedin.com/in/priya-khandelwal-82441b130/"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
-<a href = "https://www.linkedin.com/in/priya-khandelwal-82441b130/"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465(https://camo.githubusercontent.com/13ede8e4c0e13b4af17be78e512a04f0b639edfc84dcc817441e33fa470dbe09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4461746163616d702d3035313932443f7374796c653d666f722d7468652d6261646765266c6f676f3d6461746163616d70266c6f676f436f6c6f723d303345383630)"/></a>
+<a href = "https://www.linkedin.com/in/priya-khandelwal-82441b130/"><img src="images/datacamp_icon.svg"/></a>
 ### Installation
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
