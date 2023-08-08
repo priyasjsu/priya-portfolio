@@ -9,8 +9,9 @@
 <a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a>
 
 ### Installation
-
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+
+I recognize that data is the lifeblood of any data-driven endeavour and plays a pivotal role in shaping our decisions and insights. Through my portfolio, I strive to demonstrate the significance of data and the art of extracting valuable knowledge from it. 
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
