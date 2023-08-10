@@ -1,5 +1,5 @@
 
-<img width="1200" height="500" src="images/bannerpng.png"/>
+<img width="1200" height="500" src="images/banner.png"/>
 
 <a href = "https://www.linkedin.com/in/priya-khandelwal-82441b130/"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
 <a href = "https://app.datacamp.com/portfolio/priyakhandelwal65"><img src="images/datacamp_icon.svg"/></a>
@@ -25,7 +25,7 @@ From crafting Predictive Models to unlocking the potential of Computer Vision, f
 
 As I extend a digital hand to you, I invite you to join me in this adventure. Let's explore, learn, and create together in the mesmerizing world of Data Science and Machine Learning. Your interest in my portfolio means the world to me. Together, let's ride the waves of innovation, composing a harmonious future shaped by data-driven dreams.
 
-<h2>:wrench: :carpentry_saw: My Skills:</h2>
+<h2> 🛠 My Skills:</h2>
 <i class="fa fa-refresh fa-spin fa-lg"></i> Refresh Page
 Throughout my academic and professional journey, I have honed a diverse set of skills and techniques that have been pivotal in crafting and deploying successful projects. These proficiencies underscore my ability to drive innovation and deliver tangible results:
 
