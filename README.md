@@ -114,7 +114,7 @@ This project aims to develop a restaurant recommendation system that assists use
 ## Data Analysis Project
 
 <h3>Data Analysis of various datasets like Car Prices, Diabetes, Insurance etc</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/3dd66fc8-457e-442a-83d7-620d66777851"> <br/>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/cdfc1a61-e133-45fe-b906-6676612a5a6c"> <br/>
 Comprehensive data analysis of various datasets including Car Prices, Diabetes, Insurance, Cancer Death and Mental Health. The analysis primarily focuses analyze the data from various dimensions then performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
 
 [Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)
