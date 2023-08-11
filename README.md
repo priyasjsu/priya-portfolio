@@ -1,5 +1,5 @@
 
-<img width="1200" height="500" src="images/banner.png"/>
+<img width="1200" height="500" alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/0fc32a4f-6279-479d-8088-86df866309cf">
 
 <a href = "https://www.linkedin.com/in/priya-khandelwal-82441b130/"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/></a>
 <a href = "https://app.datacamp.com/portfolio/priyakhandelwal65"><img src="images/datacamp_icon.svg"/></a>
@@ -65,46 +65,70 @@ Throughout my academic and professional journey, I have honed a diverse set of s
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # :bookmark_tabs: Projects
-See full step-by-step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+## Machine Learning Projects 
 
-I recognize that data is the lifeblood of any data-driven endeavour and plays a pivotal role in shaping our decisions and insights. Through my portfolio, I strive to demonstrate the significance of data and the art of extracting valuable knowledge from it. 
-___
+<h3>Hotel Cancellation prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/556bbe27-3942-460a-8a08-818d55014fb7"> <br/>
+There are many aspects to consider when choosing a hotel. The main idea is to find the appropriate prediction model for predicting hotel booking cancellations which find the finest explaining variables for customer cancellations.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/hotel_cancellation_prediction_XGboost_Catboost_project.ipynb)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Forecasting Customer Lifetime</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/782adc14-3add-4319-b1ff-c4a68b3d56c5">
+<br/>
+This project aims to predict customer churn using various machine learning models, such as XGBoost, Decision Tree, Random Forest, and k-Nearest Neighbors. The project also involves Extract, Transform, Load (ETL) processes using AWS Glue, implementing a user interface (UI) with React, enabling user authentication and logging with AWS Amplify, and integrating a Tableau dashboard for data exploration.
 
-### Markdown
+[click here to view the full architecture and implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h3>Diamond Price Prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/ce8150a2-8b1e-41e0-9a34-93a46c830e1d">
+<br/>
+By fusing the elegance of gemological features with the precision of predictive algorithms, we aim to create a model that unravels the enigma of diamond pricing, offering a valuable tool for investors, traders, and enthusiasts alike.
 
-# Header 1
-## Header 2
-### Header 3
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Diamond_price_prediction_XG_Boost.ipynb)
 
-- Bulleted
-- List
+<h3>Brest Cancer Prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/b7c59d3e-a079-4063-b665-5e4d98201340">
+<br/>
+By fusing the elegance of gemological features with the precision of predictive algorithms, we aim to create a model that unravels the enigma of diamond pricing, offering a valuable tool for investors, traders, and enthusiasts alike.
 
-1. Numbered
-2. List
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
 
-**Bold** and _Italic_ and `Code` text
+## Computer Vision Projects
 
-[Link](url) and ![Image](src)
-```
+<h3>Recyclable Waste Management</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/444e22a1-aef5-4828-a3ed-c727d88705db"> <br/>
+The rapid growth of the global population, urbanization, and improved living standards has led to a pressing issue: waste management. Predictions indicate that annual waste production will spike to 3.40 billion tons by 2050, from the current 2.01 billion tons. To address this issue, we are leveraging cutting-edge advances in deep learning, computer vision, and other technologies. Recycling—the process of repurposing and reusing trash—is arguably one of the most effective mechanisms for reducing waste and improving waste management. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Computer-Vision-projects/tree/main/Waste-Management)
 
-### Roadmap
+## Data Mining Project
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+<h3>Restaurant Recommendation System</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/3dd66fc8-457e-442a-83d7-620d66777851"> <br/>
+This project aims to develop a restaurant recommendation system that assists users in finding the perfect dining spot based on their preferences. Whether you're a food enthusiast looking for new culinary experiences or someone seeking a cosy spot for a romantic dinner, our recommendation system has you covered. We have implemented 4 types of recommendation models based on reviews, rating, reviews and rating, and based on location.
 
-### References
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Data-Mining)
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+## Data Analysis Project
+
+<h3>Data Analysis of various datasets like Car Prices, Diabetes, Insurance etc</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/3dd66fc8-457e-442a-83d7-620d66777851"> <br/>
+Comprehensive data analysis of various datasets including Car Prices, Diabetes, Insurance, Cancer Death and Mental Health. The analysis primarily focuses analyze the data from various dimensions then performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
+
+[Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)
+[Car Prices Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/car_price_data_linear_reg.ipynb)
+[Diabetes data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Diabetes-data-analysis_Statistics.ipynb)
+[Insurance data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/insurance_data_linear_reg_corr_coff.ipynb)
+[Cancer death data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/cancer_data_linear_reg_corr_coef.ipynb)
+[Mental health data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Mental-health.ipynb)
+
+## Database Management Projects
+### Movie Database Management System
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/e51f5c0c-a128-4e7f-bd33-95731b85509e"> <br/>
+A robust SQL database that's perfect for handling all your movie-related data. From managing movie information to user profiles and even handling sub-accounts. Our system includes a range of powerful features inspired by popular streaming services like Netflix. Then migrated the database into No SQL database Mongo and compare the performance. 
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/SJSU-Movie-Database-management)
+
+
+
