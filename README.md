@@ -130,5 +130,32 @@ Comprehensive data analysis of various datasets including Car Prices, Diabetes, 
 A robust SQL database that's perfect for handling all your movie-related data. From managing movie information to user profiles and even handling sub-accounts. Our system includes a range of powerful features inspired by popular streaming services like Netflix. Then migrated the database into No SQL database Mongo and compare the performance. 
 [click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/SJSU-Movie-Database-management)
 
+# 📖 Education
+
+&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
+
+&emsp; :books: <b>Masters in Computer Science</b> | [__Uttar Pradesh Technical University, Uttar Pradesh, India__](https://aktu.ac.in/) __[August 2013 - August 2016]__
+
+&emsp; :books: <b>Bachelor of Science</b> | [__Dr. BR Ambedkar University, Uttar Pradesh, India__](http://www.dbrau.org.in/) __[August 2010 - December 2013]__
+
+# Work Experience 
+
+&emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
+
+•	Developed a cutting-edge system that streamlines the loading, management, and modelling of user data collection for DHL projects, resulting in an impressive 80% reduction in manual intervention  
+•	As part of a collaborative effort with a team of 10 engineers, revamped the customer-facing user interfaces, resulting in a remarkable 60% improvement in usability and 100% compliance with 508 accessibility standards    
+
+&emsp; :computer: [__Software Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__OpenSense Labs__](https://www.hcltech.com/) __[Jun 2017 - May 2019]__
+
+•	Translated complex data sets into easily understandable insights through data visualization, dashboard creation, and reporting, ensuring 100% accessibility to diverse stakeholders  
+•	Conducted user research, prototyping, and usability testing to identify pain points and areas for improvement, designing solutions that met user needs and expectations, resulting in an 80% increase in user satisfaction    
+
+&emsp; :computer: [__Software Developer/Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Wittybrains Software Technologies__](https://www.hcltech.com/) __[Jan 2016 - May 2017]__
+
+•	Proposed and demonstrated an enhancement by migrating from SQL to NoSQL database model, leveraging knowledge gained from coursework on database systems and user interaction, resulting in a 70% improvement in device performance  
+
+
+
+
 
 
