@@ -117,12 +117,12 @@ This project aims to develop a restaurant recommendation system that assists use
 <img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/cdfc1a61-e133-45fe-b906-6676612a5a6c"> <br/>
 Comprehensive data analysis of various datasets including Car Prices, Diabetes, Insurance, Cancer Death and Mental Health. The analysis primarily focuses analyze the data from various dimensions then performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
 
-[Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)
-[Car Prices Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/car_price_data_linear_reg.ipynb)
-[Diabetes data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Diabetes-data-analysis_Statistics.ipynb)
-[Insurance data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/insurance_data_linear_reg_corr_coff.ipynb)
-[Cancer death data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/cancer_data_linear_reg_corr_coef.ipynb)
-[Mental health data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Mental-health.ipynb)
+[Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)</br>
+[Car Prices Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/car_price_data_linear_reg.ipynb)</br>
+[Diabetes data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Diabetes-data-analysis_Statistics.ipynb)</br>
+[Insurance data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/insurance_data_linear_reg_corr_coff.ipynb)</br>
+[Cancer death data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/cancer_data_linear_reg_corr_coef.ipynb)</br>
+[Mental health data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Mental-health.ipynb)</br>
 
 ## Database Management Projects
 ### Movie Database Management System
