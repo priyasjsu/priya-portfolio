@@ -91,7 +91,7 @@ By fusing the elegance of gemological features with the precision of predictive 
 <h3>Brest Cancer Prediction</h3>
 <img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/b7c59d3e-a079-4063-b665-5e4d98201340">
 <br/>
-By fusing the elegance of gemological features with the precision of predictive algorithms, we aim to create a model that unravels the enigma of diamond pricing, offering a valuable tool for investors, traders, and enthusiasts alike.
+Breast cancer is a significant health concern affecting women worldwide. Early detection plays a critical role in improving survival rates. In this project, we aim to develop a machine-learning model that predicts whether a breast tumour is malignant (cancerous) or benign (non-cancerous) based on certain features extracted from medical images and clinical data.
 
 [click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
 
