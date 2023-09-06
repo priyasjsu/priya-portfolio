@@ -130,14 +130,6 @@ Comprehensive data analysis of various datasets including Car Prices, Diabetes, 
 A robust SQL database that's perfect for handling all your movie-related data. From managing movie information to user profiles and even handling sub-accounts. Our system includes a range of powerful features inspired by popular streaming services like Netflix. Then migrated the database into No SQL database Mongo and compare the performance. 
 [click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/SJSU-Movie-Database-management)
 
-# 📖 Education
-
-&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
-
-&emsp; :books: <b>Masters in Computer Science</b> | [__Uttar Pradesh Technical University, Uttar Pradesh, India__](https://aktu.ac.in/) __[August 2013 - August 2016]__
-
-&emsp; :books: <b>Bachelor of Science</b> | [__Dr. BR Ambedkar University, Uttar Pradesh, India__](http://www.dbrau.org.in/) __[August 2010 - December 2013]__
-
 # Work Experience 
 
 &emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
@@ -153,6 +145,14 @@ A robust SQL database that's perfect for handling all your movie-related data. F
 &emsp; :computer: [__Software Developer/Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Wittybrains Software Technologies__](https://www.hcltech.com/) __[Jan 2016 - May 2017]__
 
 •	Proposed and demonstrated an enhancement by migrating from SQL to NoSQL database model, leveraging knowledge gained from coursework on database systems and user interaction, resulting in a 70% improvement in device performance  
+
+# 📖 Education
+
+&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
+
+&emsp; :books: <b>Masters in Computer Science</b> | [__Uttar Pradesh Technical University, Uttar Pradesh, India__](https://aktu.ac.in/) __[August 2013 - August 2016]__
+
+&emsp; :books: <b>Bachelor of Science</b> | [__Dr. BR Ambedkar University, Uttar Pradesh, India__](http://www.dbrau.org.in/) __[August 2010 - December 2013]__
 
 
 
