@@ -5,8 +5,8 @@
 <a href = "https://app.datacamp.com/portfolio/priyakhandelwal65"><img src="images/datacamp_icon.svg"/></a>
 <a href = "https://www.hackerrank.com/priyakhandelwal3/"><img src="images/hackerrank_icon.svg"/></a>
 <a href = "https://medium.com/@priyakhandelwal"><img src="images/medium_icon.svg"/></a>
-<!--<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a> -->
 <a href = "https://leetcode.com/priyakhandelwal65/"><img src="images/leetcode_icon.svg"/></a>
+<!--<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a> -->
 
 <h1 align = "center">Hi, I'm Priya Khandelwal👋</h1>
 Passionate data alchemist, machine learning maven, and software sorcerer on a quest to turn code into insights and dreams into reality.
