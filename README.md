@@ -149,7 +149,7 @@ A robust SQL database that's perfect for handling all your movie-related data. F
 
 # 📖 Education
 
-&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
+&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) (With Honors)__[Jan 2022 - December 2023]__
 
 &emsp; :books: <b>Masters in Computer Science</b> | [__Uttar Pradesh Technical University, Uttar Pradesh, India__](https://aktu.ac.in/) __[August 2013 - August 2016]__
 
