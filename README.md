@@ -12,7 +12,8 @@
 Passionate data alchemist, machine learning maven, and software sorcerer on a quest to turn code into insights and dreams into reality.
 <h2> About Me: </h2>
 
-I'm currently on an exhilarating journey, pursuing a Master's in Data Analytics at San Jose State University. My voyage into the world of data science has been enriched by 5 years of diving into data modelling, analysis, and software development. This blend of experience and innovation has given me a unique perspective.
+Passionate and skilled software and machine learning engineer, holding a Master's in Data Analysis (December 2023) with a stellar academic record, consistently achieving A grades in deep learning and machine learning projects. Eager to leverage this top-tier expertise in contributing to innovative projects and driving excellence in data-driven solutions.![image](https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/ad82f4b1-585f-4702-bf90-2b92bc73027b)
+ My voyage into the world of data science has been enriched by 5 years of diving into data modelling, analysis, and software development. This blend of experience and innovation has given me a unique perspective.
 My toolkit includes Statistics, Python, SQL, React, Javascript, Node.js and Machine Learning. I've also explored the latest tech like GANs, CNNs, and Transformers. My hunger for knowledge led me to immerse myself in courses like Machine Learning Fundamentals, Natural Language Processing (NLP), Deep Learning, Big Data, and Statistics from DataCamp. These, along with hands-on learning, have fortified my skills.
 
 I've ventured into different domains, from deciphering retail patterns and financial trends in banking to adding a touch of magic to the entertainment world and tackling real-world challenges like waste management. My digital portfolio on GitHub showcases my adventures, spotlighting my journey as a Data Specialist, Machine Learning Enthusiast, and Software Engineer.
