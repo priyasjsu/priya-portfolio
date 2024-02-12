@@ -134,7 +134,7 @@ A robust SQL database that's perfect for handling all your movie-related data. F
 
 &emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
 
-•	Developed and implemented an employee recommendation model, leveraging machine learning techniques, to enhance task assignment efficiency within the company!(https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/96bbeb55-f4fc-4265-89e6-d531b4ca03a9)
+•	Developed and implemented an employee recommendation model, leveraging machine learning techniques, to enhance task assignment efficiency within the company
 •	Developed a cutting-edge system that streamlines the loading, management, and modelling of user data collection for DHL projects, resulting in an impressive 80% reduction in manual intervention  
 •	As part of a collaborative effort with a team of 10 engineers, revamped the customer-facing user interfaces, resulting in a remarkable 60% improvement in usability and 100% compliance with 508 accessibility standards    
 
