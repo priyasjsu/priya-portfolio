@@ -89,11 +89,23 @@ Throughout my academic and professional journey, I have honed a diverse set of s
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # :bookmark_tabs: Projects
-## React, Node, and Typescript Projects
+## Web Applications (React, Node, and Typescript) Projects
 ### Notes Management App
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
 The Notes Management App is a versatile and user-friendly application designed to help users organize and manage their notes efficiently. Built with React, Node.js, and TypeScript, this app offers a seamless experience for creating, updating, and deleting notes, while also providing features to categorize and search through notes. 
 [click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/React-Node-Typescript)
+
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/signup.png"> <br/>
+The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Signup-app)
+
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/todo.png"> <br/>
+The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Todo-App)
+
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/react-comp.png"> <br/>
+The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/React-Hooks-Component)
 
 ## Machine Learning Projects 
 
