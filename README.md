@@ -26,12 +26,21 @@ From crafting Predictive Models to unlocking the potential of Computer Vision, f
 As I extend a digital hand to you, I invite you to join me in this adventure. Let's explore, learn, and create together in the mesmerizing world of Data Science and Machine Learning. Your interest in my portfolio means the world to me. Together, let's ride the waves of innovation, composing a harmonious future shaped by data-driven dreams.
 
 # Work Experience 
+&emsp; :computer: [__Software Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Kodesystems__]() __[Mar 2024 - Sep 2024]__
 
-&emsp; :computer: [__Lead ML Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
+•	Developed and implemented large-scale web applications using HTML, CSS, React.js, Node.js, JSON, and REST web services
+•	Developed a cutting-edge system leveraging SQL for efficient loading, management, and modelling of user data collection for
+DHL projects, resulting in an impressive 80% reduction in manual intervention  
+•	In collaboration with a team of 10 engineers, I revamped the web application, achieving a remarkable 60% usability
+improvement through active problem-solving and leveraging diverse skill    
 
+&emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
+•	Led a team of 5, driving project development and ensuring on-time delivery
+•	Developed a bulk upload system to onboard employees and assign tasks, automating data processing and improving operational
+efficiency
 •	Developed and implemented an employee recommendation model, leveraging machine learning techniques, to enhance task assignment efficiency within the company
-•	Developed a cutting-edge system that streamlines the loading, management, and modelling of user data collection for DHL projects, resulting in an impressive 80% reduction in manual intervention  
-•	As part of a collaborative effort with a team of 10 engineers, revamped the customer-facing user interfaces, resulting in a remarkable 60% improvement in usability and 100% compliance with 508 accessibility standards    
+• Integrated CI/CD (Kubernetes, Docker) practices, along with Git, into development workflows to enhance deployment processes
+and reduce time-to-market    
 
 &emsp; :computer: [__Data Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__OpenSense Labs__](https://www.hcltech.com/) __[Jun 2017 - May 2019]__
 
