@@ -89,6 +89,12 @@ Throughout my academic and professional journey, I have honed a diverse set of s
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # :bookmark_tabs: Projects
+## React, Node, and Typescript Projects
+### Notes Management App
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
+The Notes Management App is a versatile and user-friendly application designed to help users organize and manage their notes efficiently. Built with React, Node.js, and TypeScript, this app offers a seamless experience for creating, updating, and deleting notes, while also providing features to categorize and search through notes. 
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/React-Node-Typescript)
+
 ## Machine Learning Projects 
 
 <h3>Hotel Cancellation prediction</h3>
