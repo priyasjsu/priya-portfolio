@@ -28,28 +28,28 @@ As I extend a digital hand to you, I invite you to join me in this adventure. Le
 # Work Experience 
 &emsp; :computer: [__Software Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Kodesystems__]() __[Mar 2024 - Sep 2024]__
 
-•	Developed and implemented large-scale web applications using HTML, CSS, React.js, Node.js, JSON, and REST web services
-•	Developed a cutting-edge system leveraging SQL for efficient loading, management, and modelling of user data collection for
+- Developed and implemented large-scale web applications using HTML, CSS, React.js, Node.js, JSON, and REST web services
+- Developed a cutting-edge system leveraging SQL for efficient loading, management, and modelling of user data collection for
 DHL projects, resulting in an impressive 80% reduction in manual intervention  
-•	In collaboration with a team of 10 engineers, I revamped the web application, achieving a remarkable 60% usability
+- In collaboration with a team of 10 engineers, I revamped the web application, achieving a remarkable 60% usability
 improvement through active problem-solving and leveraging diverse skill    
 
 &emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
-•	Led a team of 5, driving project development and ensuring on-time delivery
-•	Developed a bulk upload system to onboard employees and assign tasks, automating data processing and improving operational
+- Led a team of 5, driving project development and ensuring on-time delivery
+- Developed a bulk upload system to onboard employees and assign tasks, automating data processing and improving operational
 efficiency
-•	Developed and implemented an employee recommendation model, leveraging machine learning techniques, to enhance task assignment efficiency within the company
-• Integrated CI/CD (Kubernetes, Docker) practices, along with Git, into development workflows to enhance deployment processes
+- Developed and implemented an employee recommendation model, leveraging machine learning techniques, to enhance task assignment efficiency within the company
+- Integrated CI/CD (Kubernetes, Docker) practices, along with Git, into development workflows to enhance deployment processes
 and reduce time-to-market    
 
 &emsp; :computer: [__Data Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__OpenSense Labs__](https://www.hcltech.com/) __[Jun 2017 - May 2019]__
 
-•	Translated complex data sets into easily understandable insights through data visualization, dashboard creation, and reporting, ensuring 100% accessibility to diverse stakeholders  
-•	Conducted user research, prototyping, and usability testing to identify pain points and areas for improvement, designing solutions that met user needs and expectations, resulting in an 80% increase in user satisfaction    
+- Translated complex data sets into easily understandable insights through data visualization, dashboard creation, and reporting, ensuring 100% accessibility to diverse stakeholders
+- Conducted user research, prototyping, and usability testing to identify pain points and areas for improvement, designing solutions that met user needs and expectations, resulting in an 80% increase in user satisfaction    
 
 &emsp; :computer: [__Software Developer Intern__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Wittybrains Software Technologies__](https://www.hcltech.com/) __[Jan 2016 - May 2017]__
 
-•	Proposed and demonstrated an enhancement by migrating from SQL to NoSQL database model, leveraging knowledge gained from coursework on database systems and user interaction, resulting in a 70% improvement in device performance  
+- Proposed and demonstrated an enhancement by migrating from SQL to NoSQL database model, leveraging knowledge gained from coursework on database systems and user interaction, resulting in a 70% improvement in device performance  
 
 # 📖 Education
 
