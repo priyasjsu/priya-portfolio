@@ -93,22 +93,22 @@ Throughout my academic and professional journey, I have honed a diverse set of s
 ### Notes Management App
 <img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
 The Notes Management App is a versatile and user-friendly application designed to help users organize and manage their notes efficiently. Built with React, Node.js, and TypeScript, this app offers a seamless experience for creating, updating, and deleting notes, while also providing features to categorize and search through notes. 
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/React-Node-Typescript)
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Node-Typescript)
 
 ### User Signup App
 <img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/signup.png"> <br/>
 The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Signup-app)
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Signup-app)
 
 ### Todo List App
 <img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/todo.png"> <br/>
 The To-Do Application is a task management tool designed to help users organize and manage their tasks efficiently. Built using React for the frontend and Node.js with Express for the backend, this application allows users to perform CRUD (Create, Read, Update, Delete) operations on their to-do items. The application also provides a user-friendly interface to interact with tasks, including marking tasks as complete or incomplete.
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Todo-App)
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Todo-App)
 
 ### Reusable React Component App
 <img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/react-comp.png"> <br/>
 The Reusable Components Library is a collection of modular and reusable React components designed to streamline development and promote consistency across applications. This library includes various UI components that can be easily integrated and customized for different use cases. Additionally, it features a common component that serves as the backbone of the application, providing foundational functionality and styling.
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/React-Hooks-Component)
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Hooks-Component)
 
 ## Machine Learning Projects 
 
