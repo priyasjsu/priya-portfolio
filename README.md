@@ -9,7 +9,94 @@
 <!--<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a> -->
 
 <h1 align = "center">Hi, I'm Priya Khandelwal👋</h1>
-Passionate data alchemist, machine learning maven, and software sorcerer on a quest to turn code into insights and dreams into reality.
+As a dedicated software engineer and web developer, I am driven by the challenge of crafting innovative solutions and building dynamic, user-focused web applications that turn complex problems into intuitive, impactful experiences.
+
+# :bookmark_tabs: Projects
+## Web Applications (React, Node, and Typescript) Projects
+### Notes Management App
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
+The Notes Management App is a versatile and user-friendly application designed to help users organize and manage their notes efficiently. Built with React, Node.js, and TypeScript, this app offers a seamless experience for creating, updating, and deleting notes, while also providing features to categorize and search through notes. 
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Node-Typescript)
+
+### User Signup App
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/signup.png"> <br/>
+The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Signup-app)
+
+### Todo List App
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/todo.png"> <br/>
+The To-Do Application is a task management tool designed to help users organize and manage their tasks efficiently. Built using React for the frontend and Node.js with Express for the backend, this application allows users to perform CRUD (Create, Read, Update, Delete) operations on their to-do items. The application also provides a user-friendly interface to interact with tasks, including marking tasks as complete or incomplete.
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Todo-App)
+
+### Reusable React Component App
+<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/react-comp.png"> <br/>
+The Reusable Components Library is a collection of modular and reusable React components designed to streamline development and promote consistency across applications. This library includes various UI components that can be easily integrated and customized for different use cases. Additionally, it features a common component that serves as the backbone of the application, providing foundational functionality and styling.
+[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Hooks-Component)
+
+## Database Management Projects
+### Movie Database Management System
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/e51f5c0c-a128-4e7f-bd33-95731b85509e"> <br/>
+A robust SQL database that's perfect for handling all your movie-related data. From managing movie information to user profiles and even handling sub-accounts. Our system includes a range of powerful features inspired by popular streaming services like Netflix. Then migrated the database into No SQL database Mongo and compare the performance. 
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/SJSU-Movie-Database-management)
+
+## Machine Learning Projects 
+
+<h3>Hotel Cancellation prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/556bbe27-3942-460a-8a08-818d55014fb7"> <br/>
+There are many aspects to consider when choosing a hotel. The main idea is to find the appropriate prediction model for predicting hotel booking cancellations which find the finest explaining variables for customer cancellations.
+
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/hotel_cancellation_prediction_XGboost_Catboost_project.ipynb)
+
+<h3>Forecasting Customer Lifetime</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/782adc14-3add-4319-b1ff-c4a68b3d56c5">
+<br/>
+This project aims to predict customer churn using various machine learning models, such as XGBoost, Decision Tree, Random Forest, and k-Nearest Neighbors. The project also involves Extract, Transform, Load (ETL) processes using AWS Glue, implementing a user interface (UI) with React, enabling user authentication and logging with AWS Amplify, and integrating a Tableau dashboard for data exploration.
+
+[click here to view the full architecture and implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
+
+<h3>Diamond Price Prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/ce8150a2-8b1e-41e0-9a34-93a46c830e1d">
+<br/>
+By fusing the elegance of gemological features with the precision of predictive algorithms, we aim to create a model that unravels the enigma of diamond pricing, offering a valuable tool for investors, traders, and enthusiasts alike.
+
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Diamond_price_prediction_XG_Boost.ipynb)
+
+<h3>Brest Cancer Prediction</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/b7c59d3e-a079-4063-b665-5e4d98201340">
+<br/>
+Breast cancer is a significant health concern affecting women worldwide. Early detection plays a critical role in improving survival rates. In this project, we aim to develop a machine-learning model that predicts whether a breast tumour is malignant (cancerous) or benign (non-cancerous) based on certain features extracted from medical images and clinical data.
+
+[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
+
+## Computer Vision Projects
+
+<h3>Recyclable Waste Management</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/444e22a1-aef5-4828-a3ed-c727d88705db"> <br/>
+The rapid growth of the global population, urbanization, and improved living standards has led to a pressing issue: waste management. Predictions indicate that annual waste production will spike to 3.40 billion tons by 2050, from the current 2.01 billion tons. To address this issue, we are leveraging cutting-edge advances in deep learning, computer vision, and other technologies. Recycling—the process of repurposing and reusing trash—is arguably one of the most effective mechanisms for reducing waste and improving waste management. 
+
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Computer-Vision-projects/tree/main/Waste-Management)
+
+## Data Mining Project
+
+<h3>Restaurant Recommendation System</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/3dd66fc8-457e-442a-83d7-620d66777851"> <br/>
+This project aims to develop a restaurant recommendation system that assists users in finding the perfect dining spot based on their preferences. Whether you're a food enthusiast looking for new culinary experiences or someone seeking a cosy spot for a romantic dinner, our recommendation system has you covered. We have implemented 4 types of recommendation models based on reviews, rating, reviews and rating, and based on location.
+
+[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Data-Mining)
+
+## Data Analysis Project
+
+<h3>Data Analysis of various datasets like Car Prices, Diabetes, Insurance etc</h3>
+<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/cdfc1a61-e133-45fe-b906-6676612a5a6c"> <br/>
+Comprehensive data analysis of various datasets including Car Prices, Diabetes, Insurance, Cancer Death and Mental Health. The analysis primarily focuses analyze the data from various dimensions then performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
+
+[Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)</br>
+[Car Prices Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/car_price_data_linear_reg.ipynb)</br>
+[Diabetes data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Diabetes-data-analysis_Statistics.ipynb)</br>
+[Insurance data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/insurance_data_linear_reg_corr_coff.ipynb)</br>
+[Cancer death data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/cancer_data_linear_reg_corr_coef.ipynb)</br>
+[Mental health data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Mental-health.ipynb)</br>
+
 <h2> About Me: </h2>
 
 Passionate and skilled software and machine learning engineer, holding a Master's in Data Analysis (December 2023) with a stellar academic record, consistently achieving A grades in deep learning and machine learning projects. Eager to leverage this top-tier expertise in contributing to innovative projects and driving excellence in data-driven solutions. My voyage into the world of data science has been enriched by 5 years of diving into data modelling, analysis, and software development. This blend of experience and innovation has given me a unique perspective.
@@ -96,93 +183,6 @@ Throughout my academic and professional journey, I have honed a diverse set of s
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-# :bookmark_tabs: Projects
-## Web Applications (React, Node, and Typescript) Projects
-### Notes Management App
-<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/1c52d2345d9eb736481260a3f5500444969d0e79/images/notes.png"> <br/>
-The Notes Management App is a versatile and user-friendly application designed to help users organize and manage their notes efficiently. Built with React, Node.js, and TypeScript, this app offers a seamless experience for creating, updating, and deleting notes, while also providing features to categorize and search through notes. 
-[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Node-Typescript)
-
-### User Signup App
-<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/signup.png"> <br/>
-The Sign-Up Application is a user authentication system designed to handle user sign-up and login functionalities. Built using Node.js with TypeScript, this application provides a secure and efficient way for users to register and authenticate themselves. The backend leverages Express.js to manage API endpoints and validate user inputs, while dotenv is used for environment variable management.
-[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Signup-app)
-
-### Todo List App
-<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/todo.png"> <br/>
-The To-Do Application is a task management tool designed to help users organize and manage their tasks efficiently. Built using React for the frontend and Node.js with Express for the backend, this application allows users to perform CRUD (Create, Read, Update, Delete) operations on their to-do items. The application also provides a user-friendly interface to interact with tasks, including marking tasks as complete or incomplete.
-[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/Todo-App)
-
-### Reusable React Component App
-<img width = 500 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/blob/d4ae647cd6ea3fdaa5dd9afaf0ca4b117eb83c2d/images/react-comp.png"> <br/>
-The Reusable Components Library is a collection of modular and reusable React components designed to streamline development and promote consistency across applications. This library includes various UI components that can be easily integrated and customized for different use cases. Additionally, it features a common component that serves as the backbone of the application, providing foundational functionality and styling.
-[click here to view the architecture, implementation of the project](https://github.com/priyasjsu/React-Hooks-Component)
-
-## Machine Learning Projects 
-
-<h3>Hotel Cancellation prediction</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/556bbe27-3942-460a-8a08-818d55014fb7"> <br/>
-There are many aspects to consider when choosing a hotel. The main idea is to find the appropriate prediction model for predicting hotel booking cancellations which find the finest explaining variables for customer cancellations.
-
-[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/hotel_cancellation_prediction_XGboost_Catboost_project.ipynb)
-
-<h3>Forecasting Customer Lifetime</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/782adc14-3add-4319-b1ff-c4a68b3d56c5">
-<br/>
-This project aims to predict customer churn using various machine learning models, such as XGBoost, Decision Tree, Random Forest, and k-Nearest Neighbors. The project also involves Extract, Transform, Load (ETL) processes using AWS Glue, implementing a user interface (UI) with React, enabling user authentication and logging with AWS Amplify, and integrating a Tableau dashboard for data exploration.
-
-[click here to view the full architecture and implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
-
-
-<h3>Diamond Price Prediction</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/ce8150a2-8b1e-41e0-9a34-93a46c830e1d">
-<br/>
-By fusing the elegance of gemological features with the precision of predictive algorithms, we aim to create a model that unravels the enigma of diamond pricing, offering a valuable tool for investors, traders, and enthusiasts alike.
-
-[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Diamond_price_prediction_XG_Boost.ipynb)
-
-<h3>Brest Cancer Prediction</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/b7c59d3e-a079-4063-b665-5e4d98201340">
-<br/>
-Breast cancer is a significant health concern affecting women worldwide. Early detection plays a critical role in improving survival rates. In this project, we aim to develop a machine-learning model that predicts whether a breast tumour is malignant (cancerous) or benign (non-cancerous) based on certain features extracted from medical images and clinical data.
-
-[click here to view the implementation](https://github.com/priyasjsu/Machine-learning-models/blob/main/Predict_Brest_Cancer_using_sample_dataset.ipynb)
-
-## Computer Vision Projects
-
-<h3>Recyclable Waste Management</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/444e22a1-aef5-4828-a3ed-c727d88705db"> <br/>
-The rapid growth of the global population, urbanization, and improved living standards has led to a pressing issue: waste management. Predictions indicate that annual waste production will spike to 3.40 billion tons by 2050, from the current 2.01 billion tons. To address this issue, we are leveraging cutting-edge advances in deep learning, computer vision, and other technologies. Recycling—the process of repurposing and reusing trash—is arguably one of the most effective mechanisms for reducing waste and improving waste management. 
-
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Computer-Vision-projects/tree/main/Waste-Management)
-
-## Data Mining Project
-
-<h3>Restaurant Recommendation System</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/3dd66fc8-457e-442a-83d7-620d66777851"> <br/>
-This project aims to develop a restaurant recommendation system that assists users in finding the perfect dining spot based on their preferences. Whether you're a food enthusiast looking for new culinary experiences or someone seeking a cosy spot for a romantic dinner, our recommendation system has you covered. We have implemented 4 types of recommendation models based on reviews, rating, reviews and rating, and based on location.
-
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/Data-Mining)
-
-## Data Analysis Project
-
-<h3>Data Analysis of various datasets like Car Prices, Diabetes, Insurance etc</h3>
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/cdfc1a61-e133-45fe-b906-6676612a5a6c"> <br/>
-Comprehensive data analysis of various datasets including Car Prices, Diabetes, Insurance, Cancer Death and Mental Health. The analysis primarily focuses analyze the data from various dimensions then performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
-
-[Click here to view the implementation and gain insights into the dataset](https://github.com/priyasjsu/Data-Analysis)</br>
-[Car Prices Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/car_price_data_linear_reg.ipynb)</br>
-[Diabetes data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Diabetes-data-analysis_Statistics.ipynb)</br>
-[Insurance data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/insurance_data_linear_reg_corr_coff.ipynb)</br>
-[Cancer death data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/cancer_data_linear_reg_corr_coef.ipynb)</br>
-[Mental health data Analysis](https://github.com/priyasjsu/Data-Analysis/blob/main/Mental-health.ipynb)</br>
-
-## Database Management Projects
-### Movie Database Management System
-<img width = 1000 height = 250 alt="image" src="https://github.com/priyasjsu/priyasjsu.github.io/assets/113324576/e51f5c0c-a128-4e7f-bd33-95731b85509e"> <br/>
-A robust SQL database that's perfect for handling all your movie-related data. From managing movie information to user profiles and even handling sub-accounts. Our system includes a range of powerful features inspired by popular streaming services like Netflix. Then migrated the database into No SQL database Mongo and compare the performance. 
-[click here to view the architecture, implementation and full report of the project](https://github.com/priyasjsu/SJSU-Movie-Database-management)
 
 
 
