@@ -9,7 +9,7 @@
 <!--<a href = "https://www.kaggle.com/priya65khandelwal"><img src="images/kaggle_icon.svg"/></a> -->
 
 <h1 align = "center">Hi, I'm Priya Khandelwal👋</h1>
-As a dedicated software engineer and web developer, I am driven by the challenge of crafting innovative solutions and building dynamic, user-focused web applications that turn complex problems into intuitive, impactful experiences.
+As a dedicated software engineer with a passion for artificial intelligence, I thrive on the challenge of creating innovative solutions. I build dynamic, user-focused web applications that leverage AI technologies to transform complex problems into intuitive, impactful experiences.
 
 # :bookmark_tabs: Projects
 ## Web Applications (React, Node, and Typescript) Projects
